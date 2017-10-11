@@ -1,3 +1,3 @@
-#Try hard!!!/n
-#Use the class./n
-#use the class and show to work with more than one fraction in program.
+* Try to hard!!!
+* Use the class./n
+* Use the class and show to work with more than one fraction in program.
