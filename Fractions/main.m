@@ -204,6 +204,6 @@ int main(int argc, const char * argv[]) {
 // Display the fraction using our two new methods
     NSLog(@" The value of myFraction is: %i/%i",[myFraction numerator],[myFraction denominator]);
     
-    //free(<#void *#>)
+    //free
     
 }
