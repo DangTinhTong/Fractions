@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-
+#import "Fraction.h"
 
 //int main(int argc, const char * argv[]) {
  //   @autoreleasepool {
@@ -160,7 +160,7 @@ int main(int argc, const char * argv[]) {
 
 // Program to acces instance variables
 //------------@interface section-----------
-@interface Fraction: NSObject
+/*@interface Fraction: NSObject
 {
     int numerator;
     int denominator;
@@ -171,8 +171,9 @@ int main(int argc, const char * argv[]) {
 -(int) numerator;
 -(int) denominator;
 @end
-
+*/
 //-----------Implementation section--------
+/*
 @implementation Fraction
 
 -(void) print{
@@ -194,7 +195,7 @@ int main(int argc, const char * argv[]) {
     
 }
 @end
-
+*/
 // ---- Program section
 int main(int argc, const char * argv[]) {
     Fraction *myFraction =[[Fraction alloc] init];
